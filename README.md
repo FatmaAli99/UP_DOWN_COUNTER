@@ -19,7 +19,7 @@ The Count Up and Down Counter is a digital circuit that allows for counting in b
 - "Low" flag active high whenever count value is 0
 
 # Block Diagram
-![Screenshot of up_Dn_Counter]()
+![Screenshot of up_Dn_Counter](https://github.com/FatmaAli99/UP_DOWN_COUNTER/blob/main/Block%20diagram.PNG)
 
 # List of files
 - README.md: this file
